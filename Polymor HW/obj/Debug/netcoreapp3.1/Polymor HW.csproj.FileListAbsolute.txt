@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\bin\Debug\netcoreapp3.1\Polymor HW.exe
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\bin\Debug\netcoreapp3.1\Polymor HW.deps.json
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\bin\Debug\netcoreapp3.1\Polymor HW.runtimeconfig.json
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\bin\Debug\netcoreapp3.1\Polymor HW.runtimeconfig.dev.json
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\bin\Debug\netcoreapp3.1\Polymor HW.dll
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\bin\Debug\netcoreapp3.1\Polymor HW.pdb
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\obj\Debug\netcoreapp3.1\Polymor HW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\obj\Debug\netcoreapp3.1\Polymor HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\obj\Debug\netcoreapp3.1\Polymor HW.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\obj\Debug\netcoreapp3.1\Polymor HW.AssemblyInfo.cs
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\obj\Debug\netcoreapp3.1\Polymor HW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\obj\Debug\netcoreapp3.1\Polymor HW.dll
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\obj\Debug\netcoreapp3.1\Polymor HW.pdb
+C:\Users\User\Desktop\Visual Studio\Polymor HW\Polymor HW\obj\Debug\netcoreapp3.1\Polymor HW.genruntimeconfig.cache
